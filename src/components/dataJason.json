@@ -1,0 +1,232 @@
+[
+{
+            "pieza":"1",
+            "texto": "Tomar cerveza sin respirar mientras todos te hacemos reír y si te reís tenes prenda. Sino todos los demás toman un shot.",
+            "color": "fondo-azul"
+        },
+        {
+            "pieza":"2",
+            "texto": "Olerle los pies a la persona de al lado tuyo.",
+            "color": "fondo-rojo"
+        },
+        {
+            "pieza":"3",
+            "texto": "A pelear contra el Cobicho! 💪 Tomate dos shots de tequila para desinfectarte por dentro.",
+            "color": "fondo-azul"
+        },
+        {
+            "pieza":"4",
+            "texto": "Prohibido pestañear por tres turnos de tus compañeros. Si perdés dos shots o prenda.",
+            "color": "fondo-verde"
+        },
+        {
+            "pieza":"5",
+            "texto": "Quítate una prenda de ropa.",
+            "color": "fondo-rojo"
+        },
+        {
+            "pieza":"6",
+            "texto": "Dar un beso al de la derecha lugar a elección.",
+            "color": "fondo-rojo"
+        },
+        {
+            "pieza":"7",
+            "texto": "Fumar un porro por la nariz. Si te male sal te cabe un shot por manco.",
+            "color": "fondo-verde"
+        },
+        {
+            "pieza":"8",
+            "texto": "Categorías (El que saca la pieza elige una categoría y los demás tienen que decir algo que pertenezca a ella sin tardar más de un segundo. El que se traba tiene que tomar un shot).",
+            "color": "fondo-verde"
+        },
+        {
+            "pieza":"9",
+            "texto": "Cascada (Empieza a beber. Cada jugador/a a la derecha está obligado a comenzar a beber. Solo pueden detenerse cuando el jugador/a que está a su izquierda se detenga pero no está obligado a hacerlo. Prenda al que pierde).",
+            "color": "fondo-verde"
+        },
+        {
+            "pieza":"10",
+            "texto": "Pterodáctilo (Todos deben ir y decir la palabra “pterodáctilo” sin mostrar los dientes. Si alguien muestra los dientes, bebe).",
+            "color": "fondo-verde"
+        },
+        {
+            "pieza":"11",
+            "texto": "Comentador frustrado. Comentá todas las jugadas hasta tu próximo turno si no resultas gracioso tomas 2 shots o te bancas una prenda.",
+            "color": "fondo-verde"
+        },
+        {
+            "pieza":"12",
+            "texto": "Una mano (Solo se puede usar una mano hasta el final del juego).",
+            "color": "fondo-verde"
+        },
+        {
+            "pieza":"13",
+            "texto": "Concurso de mantener la vista contra quien tu quieras. El que pierde bebe.",
+            "color": "fondo-azul"
+        },
+        {
+            "pieza":"14",
+            "texto": "Marco Polo (El jugador/a que saca la ficha grita “Marco” y la última persona en decir “Polo” bebe).",
+            "color": "fondo-azul"
+        },
+        {
+            "pieza":"15",
+            "texto": "Verdad o desafío (el jugador/a elige verdad o desafío, y alguien más le hace una pregunta o le da un desafío).",
+            "color": "fondo-azul"
+        },
+        {
+            "pieza":"16",
+            "texto": "El piso es lava! El último en pisar se saca una prenda o tomas dos shots.",
+            "color": "fondo-verde"
+        },
+        {
+            "pieza":"17",
+            "texto": "Fondo blanco en menos de 10 segundos o prenda",
+            "color": "fondo-verde"
+        },
+        {
+            "pieza":"18",
+            "texto": "Persona a tu izquierda termina su bebida.",
+            "color": "fondo-verde"
+        },
+        {
+            "pieza":"19",
+            "texto": "La gente sin hijos humanos se saca una prenda o bebe un shot.",
+            "color": "fondo-verde"
+        },
+        {
+            "pieza":"20",
+            "texto": "Nariz va (el último en tocarse la nariz bebe).",
+            "color": "fondo-verde"
+        },
+        {
+            "pieza":"21",
+            "texto": "Dom Time! Demostrá tu mejor posición de Dominante contra el jugador/a a tu izquierda. Si sonríe o lo disfruta toma por sumi.",
+            "color": "fondo-rojo"
+        },
+        {
+            "pieza":"22",
+            "texto": "Historia de huesos rotos (comparte una historia sobre una vez que se rompieron un hueso. Si nunca se han roto uno, beben).",
+            "color": "fondo-verde"
+        },
+        {
+            "pieza":"23",
+            "texto": "Hasta tu próximo cada vez que alguien más beba tu puedes o sacarte una prenda (calzado no cuenta y medias cuentan como una) o beber un shot.",
+            "color": "fondo-rojo"
+        },
+        {
+            "pieza":"24",
+            "texto": "Toca una pared (La última persona en tocar una pared bebe).",
+            "color": "fondo-verde"
+        },
+        {
+            "pieza":"25",
+            "texto": "Haga una regla (inventa una regla que dure el resto del juego. Por ejemplo, no decir nombres. Si alguien rompe la regla, bebe).",
+            "color": "fondo-azul"
+        },
+        {
+            "pieza":"26",
+            "texto": "Guerra de pulgares. Jugás contra la persona de menor edad. Ganador toma 2 shots.",
+            "color": "fondo-verde"
+        },
+        {
+            "pieza":"27",
+            "texto": "Primero pregunta al jugador de la derecha que revele su parte favorita de su fisonomía. Juegas 3 rondas con una mano en esa parte del/a jugador/a.",
+            "color": "fondo-rojo"
+        },
+        {
+            "pieza":"28",
+            "texto": "Prueba de sobriedad (debe intentar caminar en línea recta. Si tiene éxito toma un shot, si falla todos toman).",
+            "color": "fondo-azul"
+        },
+        {
+            "pieza":"29",
+            "texto": "Haz un brindis (¡Debes hacer un brindis grandioso! Si es épico todos toman menos tu pero si a nadie le gusta tomas solo).",
+            "color": "fondo-azul"
+        },
+        {
+            "pieza":"30",
+            "texto": "Lucha de brazos (elige a alguien para la lucha de brazos. El perdedor bebe. ¡No derribes la torre!).",
+            "color": "fondo-verde"
+        },
+        {
+            "pieza":"31",
+            "texto": "Pierdes una prenda de ropa. Zapatos no cuenta y medias cuentan como uno. Si no lo haces bebes.",
+            "color": "fondo-rojo"
+        },
+        {
+            "pieza":"32",
+            "texto": "Langosta (Se sabe que las langostas se aparean de por vida. Elige a una persona para que sea tu \"pareja\" durante el resto del juego. Cuando bebes, ellos beben y viceversa).",
+            "color": "fondo-azul"
+        },
+        {
+            "pieza":"33",
+            "texto": "Lap dance o shots! Puedes tomar dos shots o hacer un lap dance de al menos 1 minutos a la persona a tu derecha. Quitarse la ropa no es obligatorio pero nadie te lo niega.",
+            "color": "fondo-rojo"
+        },
+        {
+            "pieza":"34",
+            "texto": "Commander Commando (Todos los que esten usando ropa interior beben. Hay que demostrarlo).",
+            "color": "fondo-rojo"
+        },
+        {
+            "pieza":"35",
+            "texto": "Grita manos en la mesa! El último jugador en poner las manos en la mesa tiene prenda. Si tira la torre además toma 2 shots. Si alguno se adelanta a que grites pierde por apurado y toma 2 shots. Vale amagar.",
+            "color": "fondo-azul"
+        },
+        {
+            "pieza":"36",
+            "texto": "Toca que te saques un artículo de ropa. Dos medias cuentan como 1 artículo y los zapatos no cuentan.",
+            "color": "fondo-rojo"
+        },
+        {
+            "pieza":"37",
+            "texto": "Hacerle cosquillas al jugador/a a tu izquierda. Si no logras que se ría toma el/ella solamente. Si no se ríe tomas por fallar y el/ella por amarg@.",
+            "color": "fondo-verde"
+        },
+        {
+            "pieza":"38",
+            "texto": "Vecinos! Las personas a ambos lados tuyo beben.",
+            "color": "fondo-azul"
+        },
+        {
+            "pieza":"39",
+            "texto": "Baile erótico (sin desvestirse) a la persona a tu derecha pero esa persona bebe 2 tragos.",
+            "color": "fondo-rojo"
+        },
+        {
+            "pieza":"40",
+            "texto": "Tomá una foto ya mismo! El que no sale mirando a la cámara toma.",
+            "color": "fondo-verde"
+        },
+        {
+            "pieza":"41",
+            "texto": "La silla del rey/reina. Pasas tres turnos sentado encima del jugador/a de tu derecha.",
+            "color": "fondo-rojo"
+        },
+        {
+            "pieza":"42",
+            "texto": "Desafía al jugador/a de más edad a fondo blanco. El que pierde toma 2 shots.",
+            "color": "fondo-azul"
+        },
+        {
+            "pieza":"43",
+            "texto": "El próximo jugador/a te debe retar a algo y o lo cumples o bebes 2 shots.",
+            "color": "fondo-azul"
+        },
+        {
+            "pieza":"44",
+            "texto": "Si o No. Cada jugador/a te hace una respuesta de si o no. O respondes o bebes.",
+            "color": "fondo-verde"
+        },
+        {
+            "pieza":"45",
+            "texto": "Sumi. Mostrale al jugador/a de tu derecha tu pose de sumi favorita o tomá 1 shot. Si el jugador/a se copa toman los dos.",
+            "color": "fondo-rojo"
+        },
+        {
+            "pieza":"46",
+            "texto": "Fácil. Tomá un trago por cada otro jugador al que le darías. Si son todos fondo blanco por fácil.",
+            "color": "fondo-rojo"
+        }
+    ]

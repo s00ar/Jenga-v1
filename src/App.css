@@ -1,27 +1,143 @@
 .App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  text-align: center;
+  align-items: left;
+  justify-content: center;
+  background: linear-gradient(-45deg, #c30d0d, #a7144d, #3b23d5, #282c34);
+  background-size: 400% 400%;
+  -webkit-animation: Gradient 15s ease infinite;
+  -moz-animation: Gradient 15s ease infinite;
+  animation: Gradient 15s ease infinite;
+  }
+
+.paused {
+  -webkit-animation-play-state: paused; /* Safari 4.0 - 8.0 */
+  animation-play-state: paused;
+}
+
+@-webkit-keyframes Gradient {
+  0% {
+  background-position: 0% 50%
+  }
+50% {
+background-position: 100% 50%
+}
+100% {
+background-position: 0% 50%
+}
+}
+
+@-moz-keyframes Gradient {
+  0% {
+  background-position: 0% 50%
+  }
+50% {
+background-position: 100% 50%
+}
+100% {
+background-position: 0% 50%
+}
+}
+
+@keyframes Gradient {
+  0% {
+  background-position: 0% 50%
+  }
+50% {
+background-position: 100% 50%
+}
+100% {
+background-position: 0% 50%
+}
+
+}
+.space {
+  margin: 2em;
+}
+p {
+  font-size: 1.4em;
+}
+.Submit-button{
+  font-size: 1.2em;
+  text-align: center;
+  margin: 1em;
+  color: #fff;
+  padding: 15px 25px;
+  cursor: pointer;
+  outline: none;
+  border: none;
+  border-radius: 15px;
+  background-image: linear-gradient(to right, #93110f, #e43603, #fa0c0c, #ff1616);
+  box-shadow: 0 4px 15px 0 rgba(229, 66, 10, 0.75);
+}
+.Submit-button:hover{
+  background-image: linear-gradient(to right, #691616, #5d0a08, #5e0707);
+  transition: all .8s ease-in-out;
+}
+.Submit-button:active {
+  background-color: #fe100c79;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.Input-box{
+  font-size: 2em;
+  max-height: 3em;
+  max-width: 2em;
+  text-align: center;
+  margin: 1em;
+  padding: 0.5em;
+}
+.fondo-verde{
+  height: 80vh;
+  border-color: yellowgreen;
+  border-radius: 3em;
+  border-style: dashed;
+  background-color: greenyellow;
+  color: black;
+}
+.fondo-azul{
+  height: 80vh;
+  border-color: yellowgreen;
+  border-radius: 3em;
+  border-style: dashed;
+  background-color: blue;
+}
+.fondo-rojo{
+  height: 80vh;
+  border-color: yellowgreen;
+  border-radius: 3em;
+  border-style: dashed;
+  background-color: red;
+}
+.initial{
+  height: 80vh;
+  border-color: yellowgreen;
+  border-radius: 3em;
+  border-style: dashed;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.column{
+  float: left;
+  width: 40%;
+  padding-left: 10%;
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+  animation: App-logo-spin infinite 20s linear;
+  filter: invert(100%);
+}
+.App-title {
+  height: 40vmin;
+  pointer-events: none;
 }
 
 .App-link {
@@ -35,4 +151,19 @@
   to {
     transform: rotate(360deg);
   }
+}
+@media only screen and (max-width: 768px)  {
+  p { font-size: 5px;}
+  .space { margin: 0; }
+  .column{ 
+    float: left;
+    width: 50%;
+    padding-left: 0%;}
+  h3{ display: none;}
+  h5 { margin: 1em;}
+}
+
+@media only screen and (max-width: 912px)  {
+  p { font-size: 1.1em;}
+  .space { margin: 0;}
 }

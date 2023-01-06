@@ -1,0 +1,47 @@
+1 Tomar un shot
+2 Dar un shot
+3 Termina tu bebida
+4 Persona a tu izquierda termina su bebida
+5 Fondo blanco en menos de 10 segundos o prenda
+6 Langosta (Se sabe que las langostas se aparean de por vida. Elige a una persona para que sea tu "pareja" durante el resto del juego. Cuando bebes, ellos beben y viceversa).
+7 Yo nunca …
+8 Categorías (El que saca la pieza elige una categoría y los demás tienen que decir algo que pertenezca a ella sin tardar más de un segundo. El que se traba tiene que tomar un shot)
+9 Cascada (Empieza a beber. Cada jugador/a a la derecha está obligado a comenzar a beber. Solo pueden detenerse cuando el jugador/a que está a su izquierda se detenga pero no está obligado a hacerlo. Prenda al que pierde) 
+10 Pterodáctilo (Todos deben ir y decir la palabra “pterodáctilo” sin mostrar los dientes. Si alguien muestra los dientes, bebe).
+11 Inversa (El orden de reproducción cambia de dirección).
+12 Una mano (Solo se puede usar una mano hasta el final del juego).
+13 Concurso de mantener la vista contra quien tu quieras. El que pierde bebe.
+14 Marco Polo (El jugador/a que saca la ficha grita “Marco” y la última persona en decir “Polo” bebe).
+15 Verdad o desafío (el jugador/a elige verdad o desafío, y alguien más le hace una pregunta o le da un desafío).
+16 La gente a la que les gusten los gatos bebe
+17 Toman los hombres
+18 Todos toman shot
+19 La gente que le gustan los perros bebe
+20 Nariz va (el último en tocarse la nariz bebe).
+21 Prueba de sobriedad (debe intentar caminar en línea recta. Si tiene éxito toma un shot, si falla todos toman)
+22 Historia de huesos rotos (comparte una historia sobre una vez que se rompieron un hueso. Si nunca se han roto uno, beben).
+23 Hasta tu próximo cada vez que alguien más beba tu puedes o sacarte una prenda (calzado no cuenta y medias cuentan como una) o beber un shot.
+24 Toca una pared (La última persona en tocar una pared bebe).
+25 Haga una regla (inventa una regla que dure el resto del juego. Por ejemplo, no decir nombres. Si alguien rompe la regla, bebe).
+26 Guerra de pulgares. Jugás contra la persona de menor edad. Ganador toma 2 shots
+27 Todos (Todos los jugadores beben.)
+28 Dom Time! Demostrá tu mejor posición de Dominante contra el jugador/a a tu izquierda. Si sonríe o lo disfruta toma por sumi.
+29 Haz un brindis (¡Debes hacer un brindis grandioso! Si es épico todos toman menos tu pero si a nadie le gusta tomas solo)
+30 Lucha de brazos (elige a alguien para la lucha de brazos. El perdedor bebe. ¡No derribes la torre!)
+31 Pierdes una prenda de ropa. Zapatos no cuenta y medias cuentan como uno. Si no lo haces bebes.
+32 ¡Ve otra vez!
+33 Saltar (Se salta el siguiente jugador).
+34 Commander Commando (Todos los que esten usando ropa interior beben. Hay que demostrarlo)
+35 Beben ellas
+36 Toca que te saques un artículo de ropa. Dos medias cuentan como 1 artículo.
+37 Hacerle cosquillas al jugador/a a tu izquierda. Si no logras que se ría toma el/ella solamente. Si no se ríe tomas por fallar y el/ella por amarg@.
+38 Vecinos (las personas a ambos lados tuyo beben.)
+39 Baile erótico (sin desvestirse) a la persona a tu derecha pero esa persona bebe 2 tragos.
+40 Tomá una foto ya mismo! El que no sale mirando a la cámara toma.
+41 La silla del rey/reina. Pasas tres turnos sentado encima del jugador/a de tu derecha.
+42 Desafía al jugador/a de más edad a fondo blanco. El que pierde toma 2 shots.
+43 El próximo jugador/a te debe retar a algo y o lo cumples o bebes 2 shots
+44 Si o No. Cada jugador/a te hace una respuesta de si o no. O respondes o bebes.
+45 Sumi. Mostrale al jugador/a de tu derecha tu pose de sumi favorita o tomá 1 shot. Si el jugador/a se copa toman los dos.
+46 Fácil. Tomá un trago por cada otro jugador al que le darías. Si son todos fondo blanco por fácil.
+47 Hasta tu próximo turno bebés cada vez que alguien más beba.
